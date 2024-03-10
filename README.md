@@ -1,6 +1,6 @@
 ## Olá, Tudo bem? Seja bem-vindo! :smiley:
 
-Tenho um pouco mais de 12 anos de experiência, sendo mais de três deles dedicados ao controle de qualidade e processos industriais, possuo uma sólida formação em Química e um Mestrado em Processos Químicos e Biotecnológicos.
+Tenho um pouco mais de 12 anos de experiência, sendo mais de cinco deles dedicados ao controle de qualidade e processos industriais, possuo uma sólida formação em Química e um Mestrado em Processos Químicos e Biotecnológicos.
 
 Ao longo da minha trajetória, sempre me envolvi com entusiasmo na gestão e controle de qualidade, buscando constantemente entregar os melhores produtos para os meus clientes intermediários e finais. 
 Recentemente, por estar longe da área de Qualidade e ao analisar minhas habilidades e paixões, percebi que eu queria voltar a entregar produtos de qualidade e impactar vidas, dessa vez, por meio da tecnologia.
