@@ -1,4 +1,4 @@
-## Olá , Tudo bem? Seja bem-vindo(a)! :raising_hand:
+## Olá! :raising_hand: Seja bem-vindo(a)! :smile:
 
 Tenho um pouco mais de 12 anos de experiência, sendo mais de cinco deles dedicados ao controle de qualidade e processos industriais, possuo uma sólida formação em Química e um Mestrado em Processos Químicos e Biotecnológicos.
 
