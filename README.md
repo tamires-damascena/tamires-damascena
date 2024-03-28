@@ -17,6 +17,7 @@ Curiosidades sobre mim:
 <div style="text-align:center;">
     <img style="display: inline-block;" align="center" alt="-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
     <img style="display: inline-block;" align="center" alt="-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="center" alt="React"  width=15% src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg">
 </div>
 
 ### Contatos
