@@ -1,11 +1,11 @@
 ## Olá! :raising_hand: Seja bem-vindo(a)! :smile:
 
-Tenho um pouco mais de 12 anos de experiência, sendo mais de cinco deles dedicados ao controle de qualidade e processos industriais, possuo uma sólida formação em Química e um Mestrado em Processos Químicos e Biotecnológicos.
+Tenho um pouco mais de 12 anos de experiência, sendo mais de sete deles dedicados ao controle de qualidade e processos industriais, possuo uma sólida formação em Química e um Mestrado em Processos Químicos e Biotecnológicos.
 
 Ao longo da minha trajetória, sempre me envolvi com entusiasmo na gestão e controle de qualidade, buscando constantemente entregar os melhores produtos para os meus clientes intermediários e finais. 
-Recentemente, por estar longe da área de Qualidade e ao analisar minhas habilidades e paixões, percebi que eu gostaria de voltar a entregar produtos de qualidade e impactar vidas, dessa vez, por meio da tecnologia.
+Recentemente, por não estar trabalhando diretamente na área de Qualidade e ao analisar minhas habilidades e paixões, percebi que eu gostaria de voltar a entregar produtos de qualidade e impactar vidas, dessa vez, por meio da tecnologia.
 
-Sendo assim, dei início à minha transição de carreira para a área de Testes e Qualidade de Software! Agora sou voluntária como Analista de Testes/QA, desenvolvo testes em contexto ágil utilizando o framework Scrum e Kanban. Realizo revisões de Estórias de Usuário, critérios de aceite e regras de negócio; faço mapeamento de estratégias e aplico técnicas de Testes funcionais e não funcionais.
+Sendo assim, dei início à minha transição de carreira para a área de Testes e Qualidade de Software! Agora sou voluntária como Analista de Testes/QA, desenvolvo testes em contexto ágil utilizando o framework Scrum e Kanban. Realizo revisões de Estórias de Usuário, critérios de aceite e regras de negócio; faço mapeamento de estratégias, escrevo casos de testes e aplico técnicas de Testes funcionais e não funcionais.
 
 Curiosidades sobre mim:
 
